@@ -1,6 +1,6 @@
 {
   "name": "normalize-css",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "description": "normalize.css (from http://necolas.github.com/normalize.css/)",
   "main": "index.js",
   "scripts": {
