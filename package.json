@@ -3,6 +3,7 @@
   "version": "2.3.0",
   "description": "normalize.css (from http://necolas.github.com/normalize.css/)",
   "main": "index.js",
+  "style": "normalize.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
